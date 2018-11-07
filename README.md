@@ -11,4 +11,5 @@ To achieve the task two approaches where used:
 1) Without any preprocessing of the data , just train a bidirectional LSTM model and check out the results.
 2) Preprocessing the data and then using the Glove embedding as the inital embedding layer and then training the Bidirectional LSTM to predict the results.
 Both the approachesgives the similar results however in the intial epoches the glove embedding preformed better.
+
 Find the data used to train the model here:https://drive.google.com/drive/folders/1R0sN91QyHilWr3lnKEMVieohrIRwNErQ?usp=sharing
