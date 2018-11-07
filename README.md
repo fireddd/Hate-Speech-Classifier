@@ -1,7 +1,7 @@
 # Hate-Speech-Classifier
 The project aims to clssify the text of wikipedia comments into 6 classes based on the toxicity of the words.
 
-The training data has more than 150 examples of wikipedia comments.
+The training data has more than 150 thousand examples of wikipedia comments.
 
 The text can be classified into toxic,severe_toxic,obscene,threat,insult and identity_hate.
 
